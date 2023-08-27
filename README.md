@@ -7,6 +7,6 @@ Hi there 👋, I'm Abdul Rehman
 - 📫 How to reach me abdulrehman48010@gmail.com
 - 👨‍💻 My Philosophy "Think BIG 🗼 and Think HIGH 📶 "
 
- 👨🏻‍💻 Tach Stack :
-HTML5 CSS3 Javascript React Tailwind CSS, TypeScript ReactJs, NextJs,  ChakraUI, Tailwind CSS, Bootstrap,
+ 👨🏻‍💻 Tech Stack :
+HTML5 CSS3 Javascript React, TypeScript ReactJs, NextJs,  ChakraUI, Tailwind CSS, Bootstrap,
 Git, Github
