@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there 👋, I'm Abdul Rehman
 
-<!--
-**abdurehmanDev/abdurehmanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m a Front-End Developer
+- 🌱 I’m currently learning Flutter
+- 💬 Feel free to ask me anything
+- 📫 How to reach me abdulrehman48010@gmail.com
+- 👨‍💻 My Philosophy "Think BIG 🗼 and Think HIGH 📶 "
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Tach Stack 
+  Java Node.js Python PHP
+HTML5 CSS3 Javascript Vue.js React Tailwind CSS
+Git Jenkins Ant Docker
+PowerShell Bash
+VS Code Eclipse IDE
+Photoshop GIMP Illustrator InDesign
+avascript, ReactJs, NextJs,  ChakraUI, Tailwind CSS, Bootstrap ...
