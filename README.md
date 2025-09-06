@@ -17,7 +17,11 @@ Hi there 👋, I'm Abdul Rehman
 🛠️ Tech Stack
 
 Frontend: React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Chakra UI, Shadcn/UI
+
 Mobile & Cross-Platform: Flutter
+
 Backend & Database: Node.js, REST APIs, Strapi, Drizzle ORM, PostgreSQL, Firebase
+
 AI & Advanced Tools: Vercel AI SDK, Generative AI
+
 Tools & Testing: Git, GitHub, Docker, Vercel, Agile/Scrum, Jest, Unit/UI Testing
